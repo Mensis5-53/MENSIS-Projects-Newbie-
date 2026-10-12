@@ -14,6 +14,7 @@ class StudentGradeCalculator {
         double grade2 = input.nextDouble();
         System.out.print("English subject grade: ");
         double grade3 = input.nextDouble();
+        
         double average = (grade1 + grade2 + grade3) / 3;
 
         //OUTPUT
